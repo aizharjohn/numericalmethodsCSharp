@@ -1,0 +1,14 @@
+C:\Users\Aizhar John Quindoza\Documents\Visual Studio 2022\Projects\Simpson 3-8 Rule\Simpson 3-8 Rule\obj\Debug\net6.0\Simpson 3-8 Rule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aizhar John Quindoza\Documents\Visual Studio 2022\Projects\Simpson 3-8 Rule\Simpson 3-8 Rule\obj\Debug\net6.0\Simpson 3-8 Rule.AssemblyInfoInputs.cache
+C:\Users\Aizhar John Quindoza\Documents\Visual Studio 2022\Projects\Simpson 3-8 Rule\Simpson 3-8 Rule\obj\Debug\net6.0\Simpson 3-8 Rule.AssemblyInfo.cs
+C:\Users\Aizhar John Quindoza\Documents\Visual Studio 2022\Projects\Simpson 3-8 Rule\Simpson 3-8 Rule\obj\Debug\net6.0\Simpson 3-8 Rule.csproj.CoreCompileInputs.cache
+C:\Users\Aizhar John Quindoza\Documents\Visual Studio 2022\Projects\Simpson 3-8 Rule\Simpson 3-8 Rule\bin\Debug\net6.0\Simpson 3-8 Rule.exe
+C:\Users\Aizhar John Quindoza\Documents\Visual Studio 2022\Projects\Simpson 3-8 Rule\Simpson 3-8 Rule\bin\Debug\net6.0\Simpson 3-8 Rule.deps.json
+C:\Users\Aizhar John Quindoza\Documents\Visual Studio 2022\Projects\Simpson 3-8 Rule\Simpson 3-8 Rule\bin\Debug\net6.0\Simpson 3-8 Rule.runtimeconfig.json
+C:\Users\Aizhar John Quindoza\Documents\Visual Studio 2022\Projects\Simpson 3-8 Rule\Simpson 3-8 Rule\bin\Debug\net6.0\Simpson 3-8 Rule.dll
+C:\Users\Aizhar John Quindoza\Documents\Visual Studio 2022\Projects\Simpson 3-8 Rule\Simpson 3-8 Rule\bin\Debug\net6.0\Simpson 3-8 Rule.pdb
+C:\Users\Aizhar John Quindoza\Documents\Visual Studio 2022\Projects\Simpson 3-8 Rule\Simpson 3-8 Rule\obj\Debug\net6.0\Simpson 3-8 Rule.dll
+C:\Users\Aizhar John Quindoza\Documents\Visual Studio 2022\Projects\Simpson 3-8 Rule\Simpson 3-8 Rule\obj\Debug\net6.0\refint\Simpson 3-8 Rule.dll
+C:\Users\Aizhar John Quindoza\Documents\Visual Studio 2022\Projects\Simpson 3-8 Rule\Simpson 3-8 Rule\obj\Debug\net6.0\Simpson 3-8 Rule.pdb
+C:\Users\Aizhar John Quindoza\Documents\Visual Studio 2022\Projects\Simpson 3-8 Rule\Simpson 3-8 Rule\obj\Debug\net6.0\Simpson 3-8 Rule.genruntimeconfig.cache
+C:\Users\Aizhar John Quindoza\Documents\Visual Studio 2022\Projects\Simpson 3-8 Rule\Simpson 3-8 Rule\obj\Debug\net6.0\ref\Simpson 3-8 Rule.dll

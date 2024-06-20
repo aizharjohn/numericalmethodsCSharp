@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Simpson 3-8 Rule/1.0.0": {
+        "runtime": {
+          "Simpson 3-8 Rule.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Simpson 3-8 Rule/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
