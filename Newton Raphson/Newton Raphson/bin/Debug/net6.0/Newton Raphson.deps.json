@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Newton Raphson/1.0.0": {
+        "runtime": {
+          "Newton Raphson.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Newton Raphson/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

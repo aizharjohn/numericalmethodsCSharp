@@ -1,0 +1,14 @@
+C:\Users\Aizhar John Quindoza\Documents\Visual Studio 2022\Projects\Newton Raphson\Newton Raphson\bin\Debug\net6.0\Newton Raphson.exe
+C:\Users\Aizhar John Quindoza\Documents\Visual Studio 2022\Projects\Newton Raphson\Newton Raphson\bin\Debug\net6.0\Newton Raphson.deps.json
+C:\Users\Aizhar John Quindoza\Documents\Visual Studio 2022\Projects\Newton Raphson\Newton Raphson\bin\Debug\net6.0\Newton Raphson.runtimeconfig.json
+C:\Users\Aizhar John Quindoza\Documents\Visual Studio 2022\Projects\Newton Raphson\Newton Raphson\bin\Debug\net6.0\Newton Raphson.dll
+C:\Users\Aizhar John Quindoza\Documents\Visual Studio 2022\Projects\Newton Raphson\Newton Raphson\bin\Debug\net6.0\Newton Raphson.pdb
+C:\Users\Aizhar John Quindoza\Documents\Visual Studio 2022\Projects\Newton Raphson\Newton Raphson\obj\Debug\net6.0\Newton Raphson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aizhar John Quindoza\Documents\Visual Studio 2022\Projects\Newton Raphson\Newton Raphson\obj\Debug\net6.0\Newton Raphson.AssemblyInfoInputs.cache
+C:\Users\Aizhar John Quindoza\Documents\Visual Studio 2022\Projects\Newton Raphson\Newton Raphson\obj\Debug\net6.0\Newton Raphson.AssemblyInfo.cs
+C:\Users\Aizhar John Quindoza\Documents\Visual Studio 2022\Projects\Newton Raphson\Newton Raphson\obj\Debug\net6.0\Newton Raphson.csproj.CoreCompileInputs.cache
+C:\Users\Aizhar John Quindoza\Documents\Visual Studio 2022\Projects\Newton Raphson\Newton Raphson\obj\Debug\net6.0\Newton Raphson.dll
+C:\Users\Aizhar John Quindoza\Documents\Visual Studio 2022\Projects\Newton Raphson\Newton Raphson\obj\Debug\net6.0\refint\Newton Raphson.dll
+C:\Users\Aizhar John Quindoza\Documents\Visual Studio 2022\Projects\Newton Raphson\Newton Raphson\obj\Debug\net6.0\Newton Raphson.pdb
+C:\Users\Aizhar John Quindoza\Documents\Visual Studio 2022\Projects\Newton Raphson\Newton Raphson\obj\Debug\net6.0\Newton Raphson.genruntimeconfig.cache
+C:\Users\Aizhar John Quindoza\Documents\Visual Studio 2022\Projects\Newton Raphson\Newton Raphson\obj\Debug\net6.0\ref\Newton Raphson.dll
