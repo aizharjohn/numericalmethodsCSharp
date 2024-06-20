@@ -1,0 +1,14 @@
+C:\Users\Aizhar John Quindoza\Documents\Visual Studio 2022\Projects\Finite Difference\Finite Difference\bin\Debug\net6.0\Finite Difference.exe
+C:\Users\Aizhar John Quindoza\Documents\Visual Studio 2022\Projects\Finite Difference\Finite Difference\bin\Debug\net6.0\Finite Difference.deps.json
+C:\Users\Aizhar John Quindoza\Documents\Visual Studio 2022\Projects\Finite Difference\Finite Difference\bin\Debug\net6.0\Finite Difference.runtimeconfig.json
+C:\Users\Aizhar John Quindoza\Documents\Visual Studio 2022\Projects\Finite Difference\Finite Difference\bin\Debug\net6.0\Finite Difference.dll
+C:\Users\Aizhar John Quindoza\Documents\Visual Studio 2022\Projects\Finite Difference\Finite Difference\bin\Debug\net6.0\Finite Difference.pdb
+C:\Users\Aizhar John Quindoza\Documents\Visual Studio 2022\Projects\Finite Difference\Finite Difference\obj\Debug\net6.0\Finite Difference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aizhar John Quindoza\Documents\Visual Studio 2022\Projects\Finite Difference\Finite Difference\obj\Debug\net6.0\Finite Difference.AssemblyInfoInputs.cache
+C:\Users\Aizhar John Quindoza\Documents\Visual Studio 2022\Projects\Finite Difference\Finite Difference\obj\Debug\net6.0\Finite Difference.AssemblyInfo.cs
+C:\Users\Aizhar John Quindoza\Documents\Visual Studio 2022\Projects\Finite Difference\Finite Difference\obj\Debug\net6.0\Finite Difference.csproj.CoreCompileInputs.cache
+C:\Users\Aizhar John Quindoza\Documents\Visual Studio 2022\Projects\Finite Difference\Finite Difference\obj\Debug\net6.0\Finite Difference.dll
+C:\Users\Aizhar John Quindoza\Documents\Visual Studio 2022\Projects\Finite Difference\Finite Difference\obj\Debug\net6.0\refint\Finite Difference.dll
+C:\Users\Aizhar John Quindoza\Documents\Visual Studio 2022\Projects\Finite Difference\Finite Difference\obj\Debug\net6.0\Finite Difference.pdb
+C:\Users\Aizhar John Quindoza\Documents\Visual Studio 2022\Projects\Finite Difference\Finite Difference\obj\Debug\net6.0\Finite Difference.genruntimeconfig.cache
+C:\Users\Aizhar John Quindoza\Documents\Visual Studio 2022\Projects\Finite Difference\Finite Difference\obj\Debug\net6.0\ref\Finite Difference.dll
