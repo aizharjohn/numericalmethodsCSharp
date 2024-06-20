@@ -1,0 +1,15 @@
+C:\Users\aizhar\Documents\Visual Studio 2022\Projects\Gauss Jacobi\Gauss Jacobi\obj\Debug\net6.0\Gauss Jacobi.csproj.AssemblyReference.cache
+C:\Users\aizhar\Documents\Visual Studio 2022\Projects\Gauss Jacobi\Gauss Jacobi\obj\Debug\net6.0\Gauss Jacobi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aizhar\Documents\Visual Studio 2022\Projects\Gauss Jacobi\Gauss Jacobi\obj\Debug\net6.0\Gauss Jacobi.AssemblyInfoInputs.cache
+C:\Users\aizhar\Documents\Visual Studio 2022\Projects\Gauss Jacobi\Gauss Jacobi\obj\Debug\net6.0\Gauss Jacobi.AssemblyInfo.cs
+C:\Users\aizhar\Documents\Visual Studio 2022\Projects\Gauss Jacobi\Gauss Jacobi\obj\Debug\net6.0\Gauss Jacobi.csproj.CoreCompileInputs.cache
+C:\Users\aizhar\Documents\Visual Studio 2022\Projects\Gauss Jacobi\Gauss Jacobi\bin\Debug\net6.0\Gauss Jacobi.exe
+C:\Users\aizhar\Documents\Visual Studio 2022\Projects\Gauss Jacobi\Gauss Jacobi\bin\Debug\net6.0\Gauss Jacobi.deps.json
+C:\Users\aizhar\Documents\Visual Studio 2022\Projects\Gauss Jacobi\Gauss Jacobi\bin\Debug\net6.0\Gauss Jacobi.runtimeconfig.json
+C:\Users\aizhar\Documents\Visual Studio 2022\Projects\Gauss Jacobi\Gauss Jacobi\bin\Debug\net6.0\Gauss Jacobi.dll
+C:\Users\aizhar\Documents\Visual Studio 2022\Projects\Gauss Jacobi\Gauss Jacobi\bin\Debug\net6.0\Gauss Jacobi.pdb
+C:\Users\aizhar\Documents\Visual Studio 2022\Projects\Gauss Jacobi\Gauss Jacobi\obj\Debug\net6.0\Gauss Jacobi.dll
+C:\Users\aizhar\Documents\Visual Studio 2022\Projects\Gauss Jacobi\Gauss Jacobi\obj\Debug\net6.0\refint\Gauss Jacobi.dll
+C:\Users\aizhar\Documents\Visual Studio 2022\Projects\Gauss Jacobi\Gauss Jacobi\obj\Debug\net6.0\Gauss Jacobi.pdb
+C:\Users\aizhar\Documents\Visual Studio 2022\Projects\Gauss Jacobi\Gauss Jacobi\obj\Debug\net6.0\Gauss Jacobi.genruntimeconfig.cache
+C:\Users\aizhar\Documents\Visual Studio 2022\Projects\Gauss Jacobi\Gauss Jacobi\obj\Debug\net6.0\ref\Gauss Jacobi.dll
